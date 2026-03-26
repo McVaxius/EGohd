@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+  "Author": "DhogGPT",
+  "Name": "Eyes of Gohd",
+  "Punchline": "PvP nameplate augmentation scaffold for long-range player visibility.",
+  "Description": "PvP nameplate augmentation scaffold for long-range player visibility.",
+  "InternalName": "EGohd",
+  "AssemblyVersion": "0.0.0.1",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Tags": [
+    "ffxiv",
+    "egohd",
+    "dhog"
+  ],
+  "CategoryTags": [
+    "utility"
+  ]
+}
